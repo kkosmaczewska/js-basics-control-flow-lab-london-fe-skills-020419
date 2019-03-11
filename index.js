@@ -12,11 +12,10 @@ if (feet<=400) {
   return 
 }
 
-function ternaryCheckCity(city) {
-  city==="NYC") {
+function ternaryCheckCity(city) ;
+  "NYC"
     return "Ok, sounds good."
-  }
-  (city==="Pittsburg") {
+  "Pittsburg"
     return "No go."  
   }
 }
